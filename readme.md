@@ -13,7 +13,7 @@
 </h3>
 
 
-# indice
+# Índice ✔
  -[Home](#-home.html)
 
  -[Quem Somos](#-quem-somos.html)
@@ -23,23 +23,23 @@
  ---
 ## sobre ✔
 
-O Projeto **Unes Universidade** é um site fictício de uma universidade contando um poudo de sua cultura e seu principal objetivo
+O Projeto **Unes Universidade** é um site fictício que conta um pouco de sua cultura e seus objetivo
 
 ---
 
-## Técnologia utilizadas
+## Técnologia utilizadas ✔
 
 O projeto foi desenvolvido utilizando as seguintes técnoilogias:
 
 - [HTML](index.html)
 
-- JS
+- [JS](index.html)
 
-## 📂 Como baixar o projeto
+## 📂 Como baixar o projeto ✔
 ``` bash
 # Clonar o Repositório
 
     $ git clone https://github.com/JairanQ/Site-universidade-unes-HTML.git
-
-
 ```
+---
+Desenvolvido por JairanQ ❄ 🛴
