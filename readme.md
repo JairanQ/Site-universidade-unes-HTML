@@ -33,7 +33,7 @@ O projeto foi desenvolvido utilizando as seguintes técnoilogias:
 
 - [HTML](index.html)
 
-- [JS](index.html)
+- [CSS](.\css\style.css)
 
 ## 📂 Como baixar o projeto ✔
 ``` bash
